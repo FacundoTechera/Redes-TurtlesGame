@@ -1,5 +1,7 @@
 # Redes-TurtlesGame
 
+![](./1.png)
+
 Instructivo para la ejecución del juego.
 
 1- Debe instalarse python 3.8
